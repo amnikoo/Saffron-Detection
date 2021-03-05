@@ -1,5 +1,6 @@
-Amirhossein Aminimehr
-Amirmahdi Nikukaran
+Amir Hossein Aminimehr
+
+Amir Mahdi Nikukaran
 
 1- copy 3 Labeled,Test,Unlabeled Folders in here
 2- install the requirements from requirements.txt
