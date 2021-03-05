@@ -1,3 +1,5 @@
+This project implemented for detecting center and angle of Saffron flowers to separate the flower from the stem with the best cut
+
 Amir Hossein Aminimehr
 
 Amir Mahdi Nikukaran
